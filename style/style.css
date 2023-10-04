@@ -1,0 +1,19 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+.style-table {
+   padding: 5px;
+   border:  2px solid  rgb(127, 127, 128);
+   border-collapse: collapse;
+   width: 99.99%;
+}
+
+table, th, td{
+    text-align: left;
+    border-collapse: collapse;
+    border:  2px solid  rgb(201, 201, 201);
+    padding: 7px;   
+}
+#gray-background{
+ background-color: #ddd;   
+}
